@@ -1,5 +1,5 @@
-**Snake-Game**
-#About
+**#Snake-Game**
+**##About**
 
 - There are 4 different python modules for different task
 - You need to copy all the 4 modules on your pc and run snake_game.py
