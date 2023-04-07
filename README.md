@@ -1,4 +1,4 @@
-**# Snake-Game**
+**Snake-Game**
 **About**
 
 - There are 4 different python modules for different task
